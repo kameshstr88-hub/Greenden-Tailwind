@@ -4,7 +4,8 @@ Greenden is a responsive and modern plant store website built using **HTML** and
 The project showcases a clean UI for a plant shop, including product listings, customer reviews, and a contact page.
 
 ---
-
+## How to view
+You can view with this link [https://kameshstr88-hub.github.io/Greenden-Tailwind/index.html]
 ## 📸 Screenshots
 (Add screenshots of Home, Products, and Contact pages here)
 
